@@ -44,8 +44,8 @@ body::before{
   z-index: -5;
   top: 0;
   right: 0;
-  width: 55%;
-  height: 57%;
+  width: 50%;
+  height: 60%;
   border-bottom-left-radius: 3rem;
 }
 
@@ -125,11 +125,11 @@ main{
 .image-container{
   width: 100%;
   margin-top: 3rem;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .image-container img{
-  width: 24.6rem;
+  width: 27.5rem;
   display: block;
   margin-left: -1.2rem;
 }
